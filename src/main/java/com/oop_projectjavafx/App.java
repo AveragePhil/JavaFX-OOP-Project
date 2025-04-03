@@ -1,6 +1,10 @@
 package com.oop_projectjavafx;
 
 import javafx.application.Application;
+import javafx.scene.text.Text;
+import javafx.scene.control.Button;
+import javafx.scene.control.TextField;
+import javafx.scene.layout.GridPane;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
